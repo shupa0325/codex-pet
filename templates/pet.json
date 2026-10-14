@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "your-pet-id",
+  "name": "Your pet name",
+  "description": "Describe your pet",
+  "author": "your-github-login",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "spriteVersionNumber": 2,
+  "spritesheet": "spritesheet.png",
+  "sha256": "REPLACE_WITH_SHA256",
+  "preview": "previews/idle.gif",
+  "tags": [],
+  "desktopInstallVerified": false
+}

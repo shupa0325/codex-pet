@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "repository": "shupa0325/codex-pet",
+  "branch": "main",
+  "pets": ["pets/baili/pet.json"]
+}

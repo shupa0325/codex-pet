@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "baili",
+  "name": "白璃",
+  "description": "銀白長髮、紫眼與白紫裙裝的 Q 版龍少女，帶著小精靈陪你工作。",
+  "author": "shupa0325",
+  "version": "1.0.0",
+  "license": "unspecified",
+  "spriteVersionNumber": 2,
+  "spritesheet": "spritesheet.png",
+  "sha256": "b46ab96884918fae633a07e445f25cbc609f227e64e68b5c79bcf6f5fde4f7bb",
+  "preview": "previews/idle.gif",
+  "tags": ["chibi", "anime", "dragon", "white", "lavender"],
+  "generation": "AI-generated from user-supplied reference; original reference author not recorded",
+  "desktopInstallVerified": false
+}
